@@ -1,4 +1,4 @@
-### EX NO : 06
+
 # <p align="center">SARSA Learning Algorithm</p>
 
 ## AIM :
